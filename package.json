@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ozan144144/Web-sitesi/issues"
   },
-  "homepage": "https://github.com/ozan144144/Web-sitesi#readme"
+  "homepage": "https://github.com/ozan144144/Web-sitesi#readme",
+  "dependencies": {
+    "ws": "^8.20.0"
+  }
 }
